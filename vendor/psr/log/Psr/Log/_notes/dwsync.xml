@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerInterface.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerTrait.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LogLevel.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="NullLogger.php" server="192.168.213.169//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="AbstractLogger.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerInterface.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerTrait.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LogLevel.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="NullLogger.php" server="192.168.213.229//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="AbstractLogger.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerInterface.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LoggerTrait.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="LogLevel.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+<file name="NullLogger.php" server="192.168.213.186//var/www/html/" local="131437402460000000" remote="131437402460000000" Dst="0" />
+</dwsync>

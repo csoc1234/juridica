@@ -1,0 +1,15 @@
+
+# Definir el document root como "basic/web"
+DocumentRoot "/var/www/html/juridica/web"
+
+<Directory path/to/basic/web">
+    # utiliza mod_rewrite para soporte de URLs amigables
+    RewriteEngine on
+    # Si el directorio o archivo existe, utiliza la petición directamente
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    # Sino, redirige la petición a index.php
+    RewriteRule . index.php
+
+    # ...otras configuraciones...
+</Directory>

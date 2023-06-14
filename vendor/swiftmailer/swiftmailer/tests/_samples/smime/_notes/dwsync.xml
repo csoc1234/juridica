@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ca.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="ca.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="CA.srl" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="create-cert.sh" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.crt" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.key" server="192.168.213.169//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="ca.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="ca.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="CA.srl" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="create-cert.sh" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.crt" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.key" server="192.168.213.229//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="ca.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="ca.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="CA.srl" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="create-cert.sh" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="encrypt2.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="intermediate.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.crt" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+<file name="sign2.key" server="192.168.213.186//var/www/html/" local="131437402530000000" remote="131437402530000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="192.168.213.186//var/www/html/" local="131468113960197695" remote="131469408370000000" Dst="0" />
+<file name=".gitignore" server="192.168.213.186//var/www/html/" local="131468113960207683" remote="131469408370000000" Dst="0" />
+<file name=".scrutinizer.yml" server="192.168.213.186//var/www/html/" local="131468113960222720" remote="131469408370000000" Dst="0" />
+<file name=".travis.yml" server="192.168.213.186//var/www/html/" local="131468113960232746" remote="131469408370000000" Dst="0" />
+<file name="CHANGELOG.md" server="192.168.213.186//var/www/html/" local="131468113960242095" remote="131469408370000000" Dst="0" />
+<file name="composer.json" server="192.168.213.186//var/www/html/" local="131468113960477278" remote="131469408370000000" Dst="0" />
+<file name="CONTRIBUTING.md" server="192.168.213.186//var/www/html/" local="131468113960257122" remote="131469408370000000" Dst="0" />
+<file name="GithubMarkdown.php" server="192.168.213.186//var/www/html/" local="131468113960267129" remote="131469408370000000" Dst="0" />
+<file name="LICENSE" server="192.168.213.186//var/www/html/" local="131468113960277136" remote="131469408370000000" Dst="0" />
+<file name="Markdown.php" server="192.168.213.186//var/www/html/" local="131468113960287176" remote="131469408370000000" Dst="0" />
+<file name="MarkdownExtra.php" server="192.168.213.186//var/www/html/" local="131468113960302156" remote="131469408370000000" Dst="0" />
+<file name="Parser.php" server="192.168.213.186//var/www/html/" local="131468113960317165" remote="131469408370000000" Dst="0" />
+<file name="phpunit.xml.dist" server="192.168.213.186//var/www/html/" local="131468113960552329" remote="131469408370000000" Dst="0" />
+<file name="README.md" server="192.168.213.186//var/www/html/" local="131468113960337179" remote="131469408370000000" Dst="0" />
+</dwsync>

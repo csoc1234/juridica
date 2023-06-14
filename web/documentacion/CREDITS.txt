@@ -1,0 +1,66 @@
+
+
+/*******************************************************************************
+* Software: yiiframework                                                       *
+* Version 2.0                                                                  *
+* License:  Freeware                                                           *
+* https://www.yiiframework.com/                                                * 
+* Copyright © 2008-2018 by Yii Software LLC                                    * 
+*                                                                              *
+* You may use and modify this software as you wish.                            *
+*******************************************************************************/
+
+/*******************************************************************************
+* mPDF is a php script to read a HTML text and generate a PDF file.            *
+* It is based on FPDF and HTML2FPDF with a number of enhancements.             *
+* Copyright (C) 2015                                                           *
+*	                          					       *
+* https://mpdf.github.io/                                                      *
+*******************************************************************************/
+
+/*******************************************************************************
+* Software: AdminLTE                                                           *
+* Version:  2.4.3                                                              *
+* Date:     2014 -2017                                                         *
+* Author: Abdullah Almsaeed                                                    *
+* License:  MIT license.                                                       *
+* Copyright © 2017 AdminLTE.IO. All rights reserved. // Almsaeed Studio.       *
+* https://adminlte.io/                                                         *
+*                                                                              *
+* This allows you to do pretty much anything you want as long as you           *
+* include the copyright in "all copies or substantial portions                 *
+* of the Software." Attribution is not required.                               *
+*******************************************************************************/
+
+********************************************************************************
+* Software: Bootstrap                                                          *
+* Version 3.3.7                                                                *
+* License:  MIT license.                                                       *
+* https://getbootstrap.com/                                                    *
+*                                                                              *
+* Bootstrap is open source. It's hosted, developed, and maintained on GitHub.  *
+*******************************************************************************/
+
+********************************************************************************
+* Developed by:                                                                *
+******* 08 al 12 del 2019 ******                                               *
+* - Yúnior O. Martínez Córdoba	                                               *
+* - Alexander Ordoñez Guaza	                                               *
+* - James Mauricio Diaz Restrepo	                                       *
+* - Herney Mauricio Ávila                                                      *
+			                                                       *
+******* 2019 *******                                                           *                 
+* -Edwin Armando Espinosa Zambrano				               *
+* -Jhon Henry Carabali Miranda                                                 *
+*	                                                                       *
+*******************************************************************************/
+
+Most of these libraries are free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation;
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+[http://www.opensource.org/licenses/lgpl-license.php]
+
