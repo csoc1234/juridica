@@ -1,4 +1,4 @@
-FROM php:7.0-cli
+FROM php:7.4.33-cli
 
 MAINTAINER Tobias Munk tobias@diemeisterei.de
 
